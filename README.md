@@ -1,4 +1,4 @@
-# PulseBoost - Exoptimizer
+# PulseBoost - Exoptimizer  Windows Form Application
 
 **PulseBoost** is a Windows Forms application built with C# and .NET 6.0.  
 It is designed to **optimize PC performance**, monitor system resources, and enhance gaming experience with an easy-to-use interface.
